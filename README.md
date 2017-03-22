@@ -22,6 +22,7 @@ First, you need to install zipline: http://www.zipline.io/beginner-tutorial.html
     $ pip install ta-lib
     
 3. Install other python libraries like numpy, pandas, matplotlib, etc. 
+4. zipline ingest
 
 Then try my script in the terminal:
 
